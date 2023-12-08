@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running test2.script",
+				"identifier": "START",
+				"timestamp": "2023-12-08 11:26:13.522 +0000"
+			},
+		{
+				"handlerName": "on_test2",
+				"timestamp": "2023-12-08 11:26:13.622 +0000",
+				"message": "Goodbye",
+				"scriptName": "test2.script",
+				"handlerLine": 1,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.209\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-12-08 11:26:13 +0000\", Successes:\"1\", TestCase:\"test2.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-08 11:26:13.741 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:00 test2.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-12-08 11:26:13.825 +0000"
+			}
+	],
+	"createdTimestamp": "2023-12-08 11:26:13.530 +0000"
+}

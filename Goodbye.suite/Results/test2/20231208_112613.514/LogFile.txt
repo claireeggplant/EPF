@@ -1,0 +1,4 @@
+﻿2023-12-08 11:26:13.522 +0000	START		Running test2.script
+2023-12-08 11:26:13.622 +0000	Log		Goodbye	1	on_test2	test2.script
+2023-12-08 11:26:13.741 +0000	EndTestCase		(Duration:"0.209", Errors:"0", Exceptions:"0", StartTime:"2023-12-08 11:26:13 +0000", Successes:"1", TestCase:"test2.script", Warnings:"0")
+2023-12-08 11:26:13.825 +0000	SUCCESS		Execution Time 0:00:00 test2.script
